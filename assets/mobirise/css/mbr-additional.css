@@ -2853,7 +2853,7 @@ body {
   color: #767676;
 }
 .cid-qLVOj0b7oL H2 {
-  color: #7f1933;
+  color: #efefef;
 }
 .cid-qLVOkkXPQC {
   padding-top: 30px;
@@ -2879,6 +2879,9 @@ body {
   .cid-qLVOkkXPQC .inner-container {
     width: 100% !important;
   }
+}
+.cid-qLVOkkXPQC .section-text I {
+  color: #efefef;
 }
 .cid-qO4RaegJdd {
   padding-top: 30px;
@@ -2951,6 +2954,9 @@ body {
 }
 .cid-qO4QcoDetW .mbr-text B {
   color: #ffffff;
+}
+.cid-qO4QcoDetW .mbr-text P {
+  color: #efefef;
 }
 .cid-qJVaNqRqp3 {
   padding-top: 30px;
@@ -3034,7 +3040,7 @@ body {
   background-color: #2e2e2e;
 }
 .cid-qNGX9EBnHH H2 {
-  color: #7f1933;
+  color: #efefef;
 }
 .cid-qLVMbkjZVR {
   padding-top: 30px;
